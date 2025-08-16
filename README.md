@@ -114,4 +114,7 @@ Integrate CI/CD pipeline for automated deployments.
 
 📌 Author
 
+<img width="822" height="630" alt="tf-2-tier-aws" src="https://github.com/user-attachments/assets/f0d7987c-7b51-4e9b-9b36-8cff0832faab" />
 👤 Mohammed Zeeshan Pasha
+
+
